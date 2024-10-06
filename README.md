@@ -61,7 +61,7 @@ Here is my current project:
 ## 🌟 Fun Facts
 
 - I love solving puzzles and brain teasers.
-- A lover of good music 🎵, always on the lookout for the perfect brew!
+- A lover of good music 🎵
 - Passionate about data analysis and visual communication.
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about data!
