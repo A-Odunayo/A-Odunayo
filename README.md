@@ -1,6 +1,6 @@
 # <p align="center">👋 Hi, I am Adetoke! </p>
 
-# <p align="center"><img src="https://github.com/user-attachments/assets/83ef1b9d-a395-407b-ad33-44652807eef7" width="700" height="400"/> </p>
+# <p align="center"><img src="https://github.com/user-attachments/assets/83ef1b9d-a395-407b-ad33-44652807eef7" width="600" height="300"/> </p>
 
 Welcome to my GitHub profile! I'm a passionate Data Analyst skilled in Excel, SQL, and Power BI. I love transforming raw data into actionable insights and making data-driven decisions.
 
