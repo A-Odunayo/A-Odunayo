@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst skilled in Excel, SQ
 
 Here is my current project:
 
-1. **[Sales Performance Dashboard](https://github.com/yourusername/sales-dashboard)**  
-   A Power BI dashboard analyzing sales trends and performance metrics.
+**[Sales Analysis](https://github.com/A-Odunayo/LITA_Project)**  
+
 
 > [!NOTE]
 > Be on the lookout for more of my project.
